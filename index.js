@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","https://discord.gg/4FFtrghZ3q"];
+const statusMessages = ["Made by .sujal. on discord | DM for commissions"];
 
 
 let currentIndex = 0;
